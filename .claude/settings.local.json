@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(ren \"WhatsApp Image 2025-12-20 at 10.14.42 PM.jpeg\" login.png)"
+    ]
+  }
+}
