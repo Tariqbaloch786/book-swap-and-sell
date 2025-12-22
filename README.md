@@ -99,7 +99,7 @@ dependencies:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/book-swap-and-sell.git
+   git clone https://github.com/Tariqbaloch786/book-swap-and-sell.git
    cd book-swap-and-sell
    ```
 
