@@ -57,8 +57,8 @@
 
 <p align="center">
   <img src="screenshots/login.png" width="200" alt="Login Screen">
+  <img src="screenshots/signup.png" width="200" alt="Sign Up Screen">
   <img src="screenshots/home.png" width="200" alt="Home Screen">
-  <img src="screenshots/add_book.png" width="200" alt="Add Book">
 </p>
 
 ---
