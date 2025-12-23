@@ -222,13 +222,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 👥 Team
+## 👨‍💻 Developer
 
-| Name | Roll Number |
-|------|-------------|
-| Muhammad Tariq Elahi | FA23-BCS-143 |
-| Huzaifa Khan | FA23-BCS-023 |
-| Azziz Khan | FA23-BCS-156 |
+**Muhammad Tariq Elahi**
 
 ---
 
